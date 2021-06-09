@@ -1,7 +1,7 @@
 [
     {
       "ParameterKey": "GitHubRepo",
-      "ParameterValue": "code-pipeline-aws"
+      "ParameterValue": "aws-codePipeline"
     },
     {
         "ParameterKey": "GitHubBranch",
@@ -9,7 +9,7 @@
       },
       {
         "ParameterKey": "GitHubToken",
-        "ParameterValue": "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"
+        "ParameterValue": "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"
       },
       {
         "ParameterKey": "GitHubUser",
